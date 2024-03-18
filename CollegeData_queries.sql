@@ -31,7 +31,7 @@ from (select avg(GPA) as avgGPA
 	  where sID in(select sID from Apply where major = 'CS')
       ) as CS,
         
-	(select avg(GPA) as avgGPA 
+    (select avg(GPA) as avgGPA 
     from Student 
     where sID not in (select sID from Apply where major = 'CS')
     ) as NonCS; 
