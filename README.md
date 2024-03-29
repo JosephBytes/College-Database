@@ -1,7 +1,7 @@
-# College Database is a database that an administer may use to query to answer certain questions.  
-## Language: SQL  
-## Version: Mar 18, 2024  
-## Author: Joseph Abdulwahab  
+## College Database: an administer may use to query to answer certain questions.  
+### Language: SQL  
+### Version: Mar 18, 2024  
+### Author: Joseph Abdulwahab  
 
 ### _CollegeData.sql:_
 CollegeData creates and uses the college_applications database.  
