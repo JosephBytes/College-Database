@@ -3,7 +3,7 @@
 ### Version: Mar 18, 2024  
 ### Author: Joseph Abdulwahab  
 
-### _CollegeData.sql:_
+## _CollegeData.sql:_
 CollegeData creates and uses the college_applications database.  
 CollegeData creates 3 relations: College, Student, and apply  
 -  College(cName, state, enrollment)    
@@ -12,7 +12,7 @@ CollegeData creates 3 relations: College, Student, and apply
     
 Values are populated in each relation as well. 
 
-### _CollegeData_queries.sql:_
+## _CollegeData_queries.sql:_
 Queries are made on the database to answer certain questions.  
 Some questions are  
   1) Return the lowest & highest GPA for students that applied to CS.
